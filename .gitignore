@@ -1,0 +1,6 @@
+.venv
+# Ignore all CSV files
+*.csv
+
+# Do not ignore CSV files in the titanic folder
+!titanic/*.csv
